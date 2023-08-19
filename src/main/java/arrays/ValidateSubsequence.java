@@ -5,6 +5,7 @@ public class ValidateSubsequence {
     /**
      * Given two non-empty arrays of integers, write a function that determines whether the second array is a subsequence of the first one.
      * A subsequence of an array is a set of numbers that aren't necessarily adjacent in the array but that are in the same order as they appear in the array.
+     * Link to the solution explanation : https://www.notion.so/adiltst/Validate-subsequence-bff70bcd011048da975afe9ed7d30c47
      */
 
     public static boolean validateSubsequence(int[] array, int[] sequence) {
